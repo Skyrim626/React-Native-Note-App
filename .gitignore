@@ -3,6 +3,12 @@
 # dependencies
 node_modules/
 
+# environment
+.env
+
+# APP WRITE Registration Documentation
+App-Write-Registration.txt
+
 # Expo
 .expo/
 dist/
